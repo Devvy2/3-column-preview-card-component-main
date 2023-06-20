@@ -57,14 +57,17 @@ img {
 p {
   color: hsla(0, 0%, 100%, 0.75);
   font-size: 1.2em;
+  font-family: "Big Shoulders Display", cursive;
 }
 
 h2 {
+  font-family: "Lexend Deca", sans-serif;
   font-size: 2em;
   color: hsl(0, 0%, 95%);
 }
 
 h3 {
+  font-family: "Big Shoulders Display", cursive;
   width: 40%;
   border-radius: 25px;
   padding: 10px;
