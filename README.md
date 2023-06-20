@@ -9,4 +9,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot2.png)
+![](./images/screenshot.png)
