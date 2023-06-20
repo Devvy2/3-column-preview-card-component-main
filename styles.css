@@ -22,8 +22,8 @@
 .Sedan,
 .Suv,
 .Luxury {
-  width: 20vw;
-  height: 70vh;
+  min-width: 20vw;
+  min-height: 70vh;
   display: flex;
   font-size: 1.4em;
   flex-direction: column;
